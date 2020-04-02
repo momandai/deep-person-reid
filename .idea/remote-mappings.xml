@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://whale@192.168.100.160:22/home/whale/miniconda3/envs/mo_torch/bin/python" />
+        <remote-mappings server-id="python@ssh://pluto@114.55.250.126:60000/media/pluto/Games/anaconda3/envs/torch/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

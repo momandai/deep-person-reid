@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="pluto@114.55.250.126:60000">
+    <serverData>
+      <paths name="pluto@114.55.250.126:60000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/pluto/Games/train/deep-person-reid" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/scripts/reid-data/market1501" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
